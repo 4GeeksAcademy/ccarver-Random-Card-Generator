@@ -7,3 +7,20 @@ body{
     align-items: center; 
     margin: 30px;    
 }
+.upper-symbol{
+    width:18rem;
+    height: 100px;
+    }
+.inner-card{
+    width:18rem;
+    height: 250px;
+
+}
+.lower-suit{
+    width: 18rem;
+    height: 100px;
+}
+#value {
+    font-size: 200px;
+    font-style: ;
+}

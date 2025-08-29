@@ -16,6 +16,10 @@ function getRandomCard() {
   let value = values[Math.floor(Math.random() * values.length)]
   
   return {suit, value };
+
+  if (suit === "Hearts" , "Diamond"){
+    suit.style.fill = "red"
+  };
   
   
   
@@ -43,6 +47,3 @@ function getRandomCard() {
 
 
 
-
-
-};
